@@ -1,0 +1,29 @@
+.CONTAINER {
+    background-color: beige;
+    margin: 30px;
+    font-size: 20px;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: flex-end;
+    align-items: center;
+}
+  .item-1{
+  background-color: blanchedalmond;
+  }
+  .item-2{
+    background-color: rgb(255, 205, 205);
+   
+   }
+   .item-3{
+    background-color: rgb(207, 255, 205);
+   }
+   .item-4{
+    background-color: rgb(238, 205, 255);
+   }
+   .item-5{
+    background-color: rgb(235, 152, 27);
+   }
+   .item-6{
+    background-color: rgb(227, 205, 255);
+   }
+   
